@@ -1,6 +1,4 @@
-/* ROANGHESI ANA MARIA - 314CB */
-
-Punctaj: 135
+/* ROANGHESI ANA MARIA */
 
 
 In structuri.h se afla structurile folosite pentru a retine informatiile pentru serial si sezon.
